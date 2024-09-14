@@ -22,14 +22,9 @@ nav {
     align-items: center;
 }
 
-.logo {
-    font-size: 1.5rem;
-    font-weight: bold;
-}
-
 /* Logo Styling */
 .logo img {
-    height: 10px; /* Adjust the height based on your preference */
+    height: 50px; /* Adjust the height based on your preference */
     width: auto; /* Maintain aspect ratio */
 }
 
